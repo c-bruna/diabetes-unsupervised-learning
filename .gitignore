@@ -1,0 +1,25 @@
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Dados grandes ou sensíveis (ajuste conforme seu projeto)
+data/
+datasets/
