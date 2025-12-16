@@ -5,3 +5,5 @@ seaborn
 scikit-learn
 scipy
 gdown
+umap-learn
+plotly
