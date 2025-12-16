@@ -7,3 +7,5 @@ scipy
 gdown
 umap-learn
 plotly
+nbformat
+ipython
